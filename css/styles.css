@@ -2,9 +2,15 @@
   font-size: 56px;
   text-align: center;
   font-family: fantasy;
+  color: #531e6b;
 }
 .p1 {
   font-family: fantasy;
-  color: indigo;
-  font-size: 26px;
+  color: #ad03fc;
+  font-size: 23px;
+}
+.h31 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 24px;
+  color: #531e6b;
 }
