@@ -3,3 +3,16 @@ p {
   color: #ad03fc;
   font-size: 23px;
 }
+.tropical-header {
+  color: #f7325e;
+}
+.tropical-text {
+  color: #7dc410;
+  font-family: fantasy;
+}
+.popular-header {
+  color: darkslategray;
+}
+.popular-text {
+  color: dimgray;
+}
